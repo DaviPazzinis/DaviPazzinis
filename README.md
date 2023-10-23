@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Davi Pazzini.
-- 👀 I’m interested in Mobile Development.
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on any mobile Flutter project. 
-- 📫 How to reach me? Send a message on linkedIn.
+- 👋 Olá, Meu nome é Davi.
+- 👀 Sou uma pessoa interessada em Java.
+- 🌱 Atualmente aprendendo padrões de projeto.
+- 💞️ Estou disponivel para colaborar em qualquer projeto Java. 
+- 📫 Qualquer duvida so me chamar!
 
 <!---
 DaviPazzinis/DaviPazzinis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
